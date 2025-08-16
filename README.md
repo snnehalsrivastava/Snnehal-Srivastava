@@ -35,7 +35,8 @@ Welcome to my GitHub! I'm passionate about using data science, AI, and strategic
 ## 🌟 Let's Connect!
 
 Curious about my journey, want to collaborate, or just want to say hi?  
-Check out my LinkedIn: (https://www.linkedin.com/in/snnehalsrivastava) 
+Check out my LinkedIn: 
+[Snnehal's LinkedIn](https://www.linkedin.com/in/snnehalsrivastava) 
 
 ---
 
